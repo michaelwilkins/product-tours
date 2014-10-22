@@ -4,7 +4,7 @@ Product Tours
 A list of product tour plugins for onboarding
 
 
-Hopscotch
+Hopscotch<br>
 http://linkedin.github.io/hopscotch/
 
 Shepherd
